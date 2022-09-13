@@ -3,15 +3,15 @@
 
   # Table of contents 
 
-  -[Business understanding](https://github.com/Manish712/Stackoverflow-Survey-Analysis#business-understanding)
+  [Business understanding](https://github.com/Manish712/Stackoverflow-Survey-Analysis#business-understanding)
 
-  -[Data understanding](https://github.com/Manish712/Stackoverflow-Survey-Analysis#data-understanding)
+  [Data understanding](https://github.com/Manish712/Stackoverflow-Survey-Analysis#data-understanding)
 
-  -[Technology / Framework used](https://github.com/Manish712/Stackoverflow-Survey-Analysis#technology--framework-used)
+  [Technology / Framework used](https://github.com/Manish712/Stackoverflow-Survey-Analysis#technology--framework-used)
 
-  -[Setup](https://github.com/Manish712/Stackoverflow-Survey-Analysis#setup)
+  [Setup](https://github.com/Manish712/Stackoverflow-Survey-Analysis#setup)
 
-  -[Licensing, Authors, Acknowledgements](https://github.com/Manish712/Stackoverflow-Survey-Analysis#licensing-authors-acknowledgements)
+  [Licensing, Authors, Acknowledgements](https://github.com/Manish712/Stackoverflow-Survey-Analysis#licensing-authors-acknowledgements)
 
 # Business understanding
 
